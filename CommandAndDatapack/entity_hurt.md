@@ -1,6 +1,7 @@
 ---
 lang: zh-CN
 title: 选择被玩家击中的实体
+author: Messy_Ghost
 description: 研究如何精确地选择中被玩家伤害的实体
 ---
 
